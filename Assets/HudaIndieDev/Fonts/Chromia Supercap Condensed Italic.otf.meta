@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd0adc47724f69b4f961cb57448fe308
+timeCreated: 1526215581
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chromia Supercap Condensed
+  fontNames:
+  - Chromia Supercap Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

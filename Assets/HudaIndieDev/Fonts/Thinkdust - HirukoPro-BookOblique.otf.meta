@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9cada3ee33b5dec45b44ce4c805909be
+timeCreated: 1526216158
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hiruko Pro
+  fontNames:
+  - Hiruko Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b0060f9be0b41841b24119fae94e335, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

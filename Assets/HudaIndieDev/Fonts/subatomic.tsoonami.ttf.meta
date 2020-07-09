@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0428803d4c53f534e885c6480affcd38
+timeCreated: 1526215887
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Subatomic Tsoonami
+  fontNames:
+  - Subatomic Tsoonami
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

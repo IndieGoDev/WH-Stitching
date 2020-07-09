@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4064fb000dc2c234ab6b8a1ab3c9389d
+timeCreated: 1526215781
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Future Now
+  fontNames:
+  - Future Now
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

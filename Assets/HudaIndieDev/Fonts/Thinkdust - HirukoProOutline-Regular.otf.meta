@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 80accf3805e2f4c418cac68842c95cf4
+timeCreated: 1526216191
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hiruko Pro Outline
+  fontNames:
+  - Hiruko Pro Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1217f5421bca76345bf4a2fd325fdef6, type: 3}
+  - {fileID: 12800000, guid: 72eb8e4488d3d884aa095d1eeab317c4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

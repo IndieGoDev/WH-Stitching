@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1937dc0cb22eca140bdec34cb86a825b
+timeCreated: 1526215624
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chiptype
+  fontNames:
+  - Chiptype
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 70fd24cf1a2c0ce4a8497c78aaf9c280
+timeCreated: 1526215851
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skirmisher Condensed Italic
+  fontNames:
+  - Skirmisher Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

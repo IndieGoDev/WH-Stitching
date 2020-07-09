@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 05d60ef5039abf646b5b491898134402
+timeCreated: 1526215858
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skirmisher 3D Italic
+  fontNames:
+  - Skirmisher 3D Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

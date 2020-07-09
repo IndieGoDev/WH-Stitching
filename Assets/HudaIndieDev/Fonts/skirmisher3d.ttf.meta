@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d3f9704b826a24e40b9f06bfa33efd4a
+timeCreated: 1526215838
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Skirmisher 3D
+  fontNames:
+  - Skirmisher 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
